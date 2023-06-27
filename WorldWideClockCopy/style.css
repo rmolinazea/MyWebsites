@@ -1,0 +1,33 @@
+/* colors from https://codepen.io/rlemon/pen/npZGOK */
+
+
+
+
+body{
+    text-align:center;
+    font-family: courier, monospace;
+    background: #00000c;
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+  }
+  
+  #clock{
+    font-size: 3em;
+  }
+
+  iframe{
+    width: 100%;
+    max-width: 80%;
+    height: 400px;
+    max-height: 80%;
+
+  }
+
+  html{
+    height: 100%;
+  }
+
+  
